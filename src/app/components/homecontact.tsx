@@ -5,7 +5,7 @@ export default function HomeContact() {
       <div className="w-full lg:w-1/2 bg-white p-6 rounded-lg shadow-md">
         <h2 className="text-2xl font-bold text-orange-400 mb-4">Contact Us</h2>
         <p className="text-gray-600 mb-6">
-          We'd love to hear from you! Whether you have a question or need
+          We had love to hear from you! Whether you have a question or need
           assistance, feel free to reach out.
         </p>
         <form className="space-y-4">

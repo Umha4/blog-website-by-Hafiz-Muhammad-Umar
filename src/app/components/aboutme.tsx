@@ -13,7 +13,7 @@ export default function HomeAboutPage() {
         </h2>
         <p className="dark:text-white mb-8">
           At HealthLink, we are dedicated to bridging the gap between patients and
-          healthcare professionals. Whether you're looking for expert medical advice,
+          healthcare professionals. Whether you are looking for expert medical advice,
           a consultation, or detailed information on healthcare topics, were here
           to guide you every step of the way.
         </p>
